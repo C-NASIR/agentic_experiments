@@ -1,0 +1,16 @@
+# Python-generated files (Matches anywhere in the project)
+**/__pycache__/
+**/*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+env/
+venv/
+.env
+
+# uv specific
+.uv
